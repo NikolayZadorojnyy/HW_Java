@@ -1,0 +1,41 @@
+
+мар. 09, 2023 12:30:52 PM task_3.MiniCalcLogger main
+INFO: Калькулятор запущен.
+мар. 09, 2023 12:31:00 PM task_3.MiniCalcLogger getDouble
+INFO: Пользователь ввел число:56
+мар. 09, 2023 12:31:04 PM task_3.MiniCalcLogger getDouble
+INFO: Пользователь ввел число:45
+мар. 09, 2023 12:31:08 PM task_3.MiniCalcLogger getOperation
+INFO: Пользователь ввел знак операции:-
+мар. 09, 2023 12:31:08 PM task_3.MiniCalcLogger main
+INFO: Результат операции: 11.0
+мар. 09, 2023 12:31:08 PM task_3.MiniCalcLogger main
+INFO: ----------Программа завершена!----------
+мар. 09, 2023 12:31:20 PM task_3.MiniCalcLogger main
+INFO: Калькулятор запущен.
+мар. 09, 2023 12:31:26 PM task_3.MiniCalcLogger getDouble
+WARNING: Пользователь ввел некорректное число.
+мар. 09, 2023 12:31:32 PM task_3.MiniCalcLogger getDouble
+INFO: Пользователь ввел число:67
+мар. 09, 2023 12:31:44 PM task_3.MiniCalcLogger getDouble
+INFO: Пользователь ввел число:0
+мар. 09, 2023 12:31:50 PM task_3.MiniCalcLogger getOperation
+INFO: Пользователь ввел знак операции:/
+мар. 09, 2023 12:31:50 PM task_3.MiniCalcLogger main
+WARNING: На ноль делить нельзя!
+мар. 09, 2023 12:31:50 PM task_3.MiniCalcLogger main
+INFO: Результат операции: Infinity
+мар. 09, 2023 12:31:50 PM task_3.MiniCalcLogger main
+INFO: ----------Программа завершена!----------
+мар. 09, 2023 12:32:03 PM task_3.MiniCalcLogger main
+INFO: Калькулятор запущен.
+мар. 09, 2023 12:32:13 PM task_3.MiniCalcLogger getDouble
+INFO: Пользователь ввел число:34
+мар. 09, 2023 12:32:16 PM task_3.MiniCalcLogger getDouble
+INFO: Пользователь ввел число:67
+мар. 09, 2023 12:32:20 PM task_3.MiniCalcLogger getOperation
+INFO: Пользователь ввел знак операции:e
+мар. 09, 2023 12:32:20 PM task_3.MiniCalcLogger main
+WARNING: Некорректный ввод операции!
+мар. 09, 2023 12:32:20 PM task_3.MiniCalcLogger main
+INFO: ----------Программа завершена!----------
