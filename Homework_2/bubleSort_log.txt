@@ -1,0 +1,76 @@
+мар. 12, 2023 1:47:47 AM task_1.BubbleSortLog bubleSort
+INFO: Логгирование каждой итеррации пузырьковой сортировки.
+мар. 12, 2023 1:47:47 AM task_1.BubbleSortLog bubleSort
+INFO: Шаг => | 1 | [5, 23, 3, 56, 9, 0, 32, 7, 12, 45, 5, 2, 45]
+мар. 12, 2023 1:47:47 AM task_1.BubbleSortLog bubleSort
+INFO: Шаг => | 2 | [5, 23, 3, 9, 56, 0, 32, 7, 12, 45, 5, 2, 45]
+мар. 12, 2023 1:47:47 AM task_1.BubbleSortLog bubleSort
+INFO: Шаг => | 3 | [5, 23, 3, 9, 0, 56, 32, 7, 12, 45, 5, 2, 45]
+мар. 12, 2023 1:47:47 AM task_1.BubbleSortLog bubleSort
+INFO: Шаг => | 4 | [5, 23, 3, 9, 0, 32, 56, 7, 12, 45, 5, 2, 45]
+мар. 12, 2023 1:47:47 AM task_1.BubbleSortLog bubleSort
+INFO: Шаг => | 5 | [5, 23, 3, 9, 0, 32, 7, 56, 12, 45, 5, 2, 45]
+мар. 12, 2023 1:47:47 AM task_1.BubbleSortLog bubleSort
+INFO: Шаг => | 6 | [5, 23, 3, 9, 0, 32, 7, 12, 56, 45, 5, 2, 45]
+мар. 12, 2023 1:47:47 AM task_1.BubbleSortLog bubleSort
+INFO: Шаг => | 7 | [5, 23, 3, 9, 0, 32, 7, 12, 45, 56, 5, 2, 45]
+мар. 12, 2023 1:47:47 AM task_1.BubbleSortLog bubleSort
+INFO: Шаг => | 8 | [5, 23, 3, 9, 0, 32, 7, 12, 45, 5, 56, 2, 45]
+мар. 12, 2023 1:47:47 AM task_1.BubbleSortLog bubleSort
+INFO: Шаг => | 9 | [5, 23, 3, 9, 0, 32, 7, 12, 45, 5, 2, 56, 45]
+мар. 12, 2023 1:47:47 AM task_1.BubbleSortLog bubleSort
+INFO: Шаг => | 10 | [5, 23, 3, 9, 0, 32, 7, 12, 45, 5, 2, 45, 56]
+мар. 12, 2023 1:47:47 AM task_1.BubbleSortLog bubleSort
+INFO: Шаг => | 11 | [5, 3, 23, 9, 0, 32, 7, 12, 45, 5, 2, 45, 56]
+мар. 12, 2023 1:47:47 AM task_1.BubbleSortLog bubleSort
+INFO: Шаг => | 12 | [5, 3, 9, 23, 0, 32, 7, 12, 45, 5, 2, 45, 56]
+мар. 12, 2023 1:47:47 AM task_1.BubbleSortLog bubleSort
+INFO: Шаг => | 13 | [5, 3, 9, 0, 23, 32, 7, 12, 45, 5, 2, 45, 56]
+мар. 12, 2023 1:47:47 AM task_1.BubbleSortLog bubleSort
+INFO: Шаг => | 14 | [5, 3, 9, 0, 23, 7, 32, 12, 45, 5, 2, 45, 56]
+мар. 12, 2023 1:47:47 AM task_1.BubbleSortLog bubleSort
+INFO: Шаг => | 15 | [5, 3, 9, 0, 23, 7, 12, 32, 45, 5, 2, 45, 56]
+мар. 12, 2023 1:47:47 AM task_1.BubbleSortLog bubleSort
+INFO: Шаг => | 16 | [5, 3, 9, 0, 23, 7, 12, 32, 5, 45, 2, 45, 56]
+мар. 12, 2023 1:47:47 AM task_1.BubbleSortLog bubleSort
+INFO: Шаг => | 17 | [5, 3, 9, 0, 23, 7, 12, 32, 5, 2, 45, 45, 56]
+мар. 12, 2023 1:47:47 AM task_1.BubbleSortLog bubleSort
+INFO: Шаг => | 18 | [3, 5, 9, 0, 23, 7, 12, 32, 5, 2, 45, 45, 56]
+мар. 12, 2023 1:47:47 AM task_1.BubbleSortLog bubleSort
+INFO: Шаг => | 19 | [3, 5, 0, 9, 23, 7, 12, 32, 5, 2, 45, 45, 56]
+мар. 12, 2023 1:47:47 AM task_1.BubbleSortLog bubleSort
+INFO: Шаг => | 20 | [3, 5, 0, 9, 7, 23, 12, 32, 5, 2, 45, 45, 56]
+мар. 12, 2023 1:47:47 AM task_1.BubbleSortLog bubleSort
+INFO: Шаг => | 21 | [3, 5, 0, 9, 7, 12, 23, 32, 5, 2, 45, 45, 56]
+мар. 12, 2023 1:47:47 AM task_1.BubbleSortLog bubleSort
+INFO: Шаг => | 22 | [3, 5, 0, 9, 7, 12, 23, 5, 32, 2, 45, 45, 56]
+мар. 12, 2023 1:47:47 AM task_1.BubbleSortLog bubleSort
+INFO: Шаг => | 23 | [3, 5, 0, 9, 7, 12, 23, 5, 2, 32, 45, 45, 56]
+мар. 12, 2023 1:47:47 AM task_1.BubbleSortLog bubleSort
+INFO: Шаг => | 24 | [3, 0, 5, 9, 7, 12, 23, 5, 2, 32, 45, 45, 56]
+мар. 12, 2023 1:47:47 AM task_1.BubbleSortLog bubleSort
+INFO: Шаг => | 25 | [3, 0, 5, 7, 9, 12, 23, 5, 2, 32, 45, 45, 56]
+мар. 12, 2023 1:47:47 AM task_1.BubbleSortLog bubleSort
+INFO: Шаг => | 26 | [3, 0, 5, 7, 9, 12, 5, 23, 2, 32, 45, 45, 56]
+мар. 12, 2023 1:47:47 AM task_1.BubbleSortLog bubleSort
+INFO: Шаг => | 27 | [3, 0, 5, 7, 9, 12, 5, 2, 23, 32, 45, 45, 56]
+мар. 12, 2023 1:47:47 AM task_1.BubbleSortLog bubleSort
+INFO: Шаг => | 28 | [0, 3, 5, 7, 9, 12, 5, 2, 23, 32, 45, 45, 56]
+мар. 12, 2023 1:47:47 AM task_1.BubbleSortLog bubleSort
+INFO: Шаг => | 29 | [0, 3, 5, 7, 9, 5, 12, 2, 23, 32, 45, 45, 56]
+мар. 12, 2023 1:47:47 AM task_1.BubbleSortLog bubleSort
+INFO: Шаг => | 30 | [0, 3, 5, 7, 9, 5, 2, 12, 23, 32, 45, 45, 56]
+мар. 12, 2023 1:47:47 AM task_1.BubbleSortLog bubleSort
+INFO: Шаг => | 31 | [0, 3, 5, 7, 5, 9, 2, 12, 23, 32, 45, 45, 56]
+мар. 12, 2023 1:47:47 AM task_1.BubbleSortLog bubleSort
+INFO: Шаг => | 32 | [0, 3, 5, 7, 5, 2, 9, 12, 23, 32, 45, 45, 56]
+мар. 12, 2023 1:47:47 AM task_1.BubbleSortLog bubleSort
+INFO: Шаг => | 33 | [0, 3, 5, 5, 7, 2, 9, 12, 23, 32, 45, 45, 56]
+мар. 12, 2023 1:47:47 AM task_1.BubbleSortLog bubleSort
+INFO: Шаг => | 34 | [0, 3, 5, 5, 2, 7, 9, 12, 23, 32, 45, 45, 56]
+мар. 12, 2023 1:47:47 AM task_1.BubbleSortLog bubleSort
+INFO: Шаг => | 35 | [0, 3, 5, 2, 5, 7, 9, 12, 23, 32, 45, 45, 56]
+мар. 12, 2023 1:47:47 AM task_1.BubbleSortLog bubleSort
+INFO: Шаг => | 36 | [0, 3, 2, 5, 5, 7, 9, 12, 23, 32, 45, 45, 56]
+мар. 12, 2023 1:47:47 AM task_1.BubbleSortLog bubleSort
+INFO: Шаг => | 37 | [0, 2, 3, 5, 5, 7, 9, 12, 23, 32, 45, 45, 56]

@@ -1,0 +1,16 @@
+мар. 12, 2023 1:56:07 AM task_3.MiniCalcLogger main
+INFO: Калькулятор запущен.
+мар. 12, 2023 1:56:18 AM task_3.MiniCalcLogger getDouble
+INFO: Пользователь ввел число:23
+мар. 12, 2023 1:57:40 AM task_3.MiniCalcLogger main
+INFO: Калькулятор запущен.
+мар. 12, 2023 1:57:47 AM task_3.MiniCalcLogger getDouble
+INFO: Пользователь ввел число:34
+мар. 12, 2023 1:57:54 AM task_3.MiniCalcLogger getDouble
+INFO: Пользователь ввел число:56
+мар. 12, 2023 1:58:01 AM task_3.MiniCalcLogger getOperation
+INFO: Пользователь ввел знак операции:/
+мар. 12, 2023 1:58:01 AM task_3.MiniCalcLogger main
+INFO: Результат операции: 0.6071428571428571
+мар. 12, 2023 1:58:01 AM task_3.MiniCalcLogger main
+INFO: ----------Программа завершена!----------
